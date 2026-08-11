@@ -12,23 +12,23 @@ A collection of small, self-contained Java desktop GUI applications, built as pr
 
 ### Password Generator
 
-<img src="docs/screenshots/password-generator.png" alt="Password Generator GUI" width="700">
+<img src="docs/screenshots/password-generator.png" alt="Password Generator GUI" width="500" height="300">
 
 ### Word Counter
 
-<img src="docs/screenshots/word-counter.png" alt="Word Counter GUI" width="700">
+<img src="docs/screenshots/word-counter.png" alt="Word Counter GUI" width="500"  height="300">
 
 ### IP Address Finder
 
-<img src="docs/screenshots/ip-address-finder.png" alt="IP Address Finder GUI" width="700">
+<img src="docs/screenshots/ip-address-finder.png" alt="IP Address Finder GUI" width="500">
 
 ### Widgets Collection – Variant 1 (colored buttons)
 
-<img src="docs/screenshots/widget-websites-starter-1.png" alt="Website Starter Variant 1" width="400">
+<img src="docs/screenshots/widget-websites-starter-1.png" alt="Website Starter Variant 1" width="400" height="500">
 
 ### Widgets Collection – Variant 2 (icon buttons)
 
-<img src="docs/screenshots/widget-websites-starter-2.png" alt="Website Starter Variant 2" width="700">
+<img src="docs/screenshots/widget-websites-starter-2.png" alt="Website Starter Variant 2" width="500">
 
 ---
 
